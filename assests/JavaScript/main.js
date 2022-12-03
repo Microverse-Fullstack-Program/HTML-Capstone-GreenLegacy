@@ -68,7 +68,7 @@ const performers = document.querySelector('.events');
 
 window.addEventListener('DOMContentLoaded', () => {
   const performersString = performersData.map((article) => `<article>
-        <img src=${article.img} alt="Taita women drama group">
+        <img src=${article.img} alt="Green Legacy Past Years Activities">
         <div class="event-info">
             <h3 class="event-name">${article.eventName}</h3>
             <p class="event-title">${article.eventTitle}</p>
