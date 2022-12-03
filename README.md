@@ -2,6 +2,7 @@
 
 <div align="center">
   ![image](https://user-images.githubusercontent.com/73167960/205438367-80ba75ab-028a-4dfe-926f-4fdac669e10e.png)
+  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Microverse README Template</b></h3>
 </div>
