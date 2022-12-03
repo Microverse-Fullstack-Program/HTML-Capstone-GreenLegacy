@@ -20,7 +20,7 @@ const eventData = [
     img: 'assests/Images/ethiopian-pm.png',
     eventName: 'Ethiopian PM',
     eventTitle: 'PM during 2022 Green Legacy Campaing Launch',
-    desc: `The Prime Minister has officially launched the fourth green legacy program.`,
+    desc: 'The Prime Minister has officially launched the fourth green legacy program.',
   },
   {
     img: 'assests/Images/oromia-planting.png',
