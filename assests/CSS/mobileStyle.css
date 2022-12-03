@@ -236,9 +236,10 @@ main {
 }
 
 .main-program article {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr 5fr;
   padding: 3%;
-  gap: 5px;
+  gap: 10px;
   align-items: center;
   border: none;
   background-image: url(../Images/article-program-mob.png);
@@ -256,7 +257,7 @@ main {
 .program-title {
   font-family: 'lato', sans-serif;
   font-weight: 400;
-  font-size: 4vw;
+  font-size: 5vw;
   color: #ec5242;
   padding-left: 5px;
 }
@@ -264,9 +265,9 @@ main {
 .program-description {
   font-family: 'lato', sans-serif;
   font-weight: 400;
-  font-size: 2.8vw;
+  font-size: 3.5vw;
+  line-height: 15px;
   color: #fff;
-  width: 60%;
 }
 
 .see-more-mobile {
@@ -314,7 +315,7 @@ main {
 
 .events {
   display: grid;
-  grid-template-columns: 80%;
+  grid-template-columns: 90%;
   grid-auto-rows: auto;
   row-gap: 2rem;
   justify-content: center;
@@ -323,19 +324,19 @@ main {
 
 .gl-events article {
   display: flex;
-  gap: 5%;
+  gap: 2%;
 }
 
 .gl-events img {
   width: 35%;
-  height: 100%;
-  padding: 10px;
+  height: auto;
+  padding: 10px 5px;
 }
 
 .event-info {
   display: flex;
   flex-direction: column;
-  width: 55%;
+  width: 75%;
 }
 
 .event-name {
@@ -349,7 +350,7 @@ main {
 .event-title {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
-  font-size: 2.5vw;
+  font-size: 3.5vw;
   padding: 5px;
   font-style: italic;
   color: #ec5242;
@@ -358,7 +359,7 @@ main {
 .event-desc {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
-  font-size: 2.5vw;
+  font-size: 3.5vw;
   padding: 5px;
   font-style: normal;
   line-height: 13px;
