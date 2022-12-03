@@ -1,19 +1,18 @@
 const hamburger = document.querySelector('.hamburger');
 const navLinks = document.querySelector('.topNav-links');
-const navLink_items = document.querySelectorAll('.nav-link');
+const navLink_Items = document.querySelectorAll('.nav-link');
 
 hamburger.addEventListener('click', () => {
   hamburger.classList.toggle('active');
   navLinks.classList.toggle('mobile-Navlinks');
 });
 
-navLink_items.forEach((linkItem) => {
+navLink_Items.forEach((linkItem) => {
   linkItem.addEventListener('click', () => {
     hamburger.classList.remove('active');
-    links.classList.remove('mobile-Navlinks');
+    navLinks.classList.remove('mobile-Navlinks');
   });
 });
-
 
 // Display Green Legacy Events Section Dynamically
 const performersData = [
@@ -22,7 +21,7 @@ const performersData = [
     eventName: 'Ethiopian PM',
     eventTitle: 'PM during 2022 Green Legacy Campaing Launch',
     desc: `The Prime Minister has officially launched the fourth green legacy program which will be 
-            implemented under the theme “Our Imprint for Our Children”.`
+            implemented under the theme “Our Imprint for Our Children”.`,
   },
   {
     img: '/assests/Images/oromia-planting.png',
@@ -58,7 +57,7 @@ const performersData = [
   {
     img: '/assests/Images/selfhelp-africa.png',
     eventName: 'Self Help Africa',
-    eventName: 'Self Help Africa Group Played a part in the Green legacy initiative',
+    eventTitle: 'Self Help Africa Group Played a part in the Green legacy initiative',
     desc: `Self Help Africa is working with communities, as part of Ethiopia’s green legacy, 
           to plant a total of 300,000 tree seedlings on degraded farmlands around Lake Ziway, 
           close to Adami Tulu, the site of the organisation’s very first African development project.`,
