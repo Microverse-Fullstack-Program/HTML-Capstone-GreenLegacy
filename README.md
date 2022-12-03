@@ -1,46 +1,120 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Green Legacy capaign Website
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-> This is a green legacy initiative website built with HTML, CSS, and JavaScript
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+  <h3><b>Microverse README Template</b></h3>
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
 
-## Built With
+# 📖 Green Legacy Initiative Capaign <a name="about-project"></a>
 
-- HTML5
-- CSS3
-- JavaScript
+> This project is a responsive website built for annual tree planting campaign initiative in Ethiopia. It built using HTML, CSS, and JavaScript. This ** Green Legacy Initaitive** website is aims to present showcases and anual event activities. 
 
-## Live Demo 
+## 🛠 Built With <a name="built-with"></a>
 
-[Live Demo Link](https://microverse-fullstack-program.github.io/HTML-Capstone-GreenLegacy/)
+### Tech Stack <a name="tech-stack"></a>
+
+> - HTML5
+> - CSS3
+> - JavaScript
+
+### Key Features <a name="key-features"></a>
+
+> The key features of this website are include.
+
+- **[Responsive]**
+- **[Customizable]**
+- **[Accessiable]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://microverse-fullstack-program.github.io/HTML-Capstone-GreenLegacy/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Presentation
 [Project Presentation Link](xxx)
 
 
-## Getting Started
+## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running follow these steps.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-To use this web app you need npm and node.js
 
-### Setup and Install
+In order to run this project you need to install npm and node.js
 
-To setup and install this application, install npm packages and node.js:
+### Setup
 
+Clone this repository to your desired folder:
 1. Use VScode: open terminal in VScode
 2. Navigate to the directory where you want clone the copy of this repository
 3. Create new directory [optional]
 4. Clone the repo using the below command
  > git clone https://github.com/Microverse-Fullstack-Program/HTML-Capstone-GreenLegacy.git
-5. npm install
 
 ### Usage
+
 This project can be used to practice html5, css3, and javascript
 
-## Author
+### Run tests
+
+To run tests, run the following command:
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 
 👤 **Chere Lemma**
 
@@ -48,22 +122,35 @@ This project can be used to practice html5, css3, and javascript
 - Twitter: [@twitterhandle](https://twitter.com/Chere21271613)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chere-lemma27211613/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Microverse-Fullstack-Program/HTML-Capstone-GreenLegacy/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 * This project design was inspired by a Behance design created by Cindy Chin on an online website for a conference.
 [Link to Cindy Chin design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 * [Readme-template](https://github.com/microverseinc/readme-template)
 * [Linter for HTML and CSS ](https://github.com/microverseinc/linters-config)
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
