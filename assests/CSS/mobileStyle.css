@@ -47,7 +47,7 @@ main {
   flex-direction: column;
   cursor: pointer;
   padding: 15px 25px;
-  background-image: url(../Images/hamburger-background.png);
+  background-image: url(/assests/Images/hamburger-background.png);
   margin-bottom: 2px;
 }
 
@@ -118,7 +118,7 @@ main {
   flex-direction: column;
   gap: 20px;
   padding: 5vw 5vw;
-  background-image: url(../Images/headline-background.png);
+  background-image: url(/assests/Images/headline-background.png);
 }
 
 .headline .message {
@@ -206,7 +206,7 @@ main {
 .main-program {
   display: flex;
   flex-direction: column;
-  background-image: url(../Images/program_bkgr_mob.png);
+  background-image: url(/assests/Images/program_bkgr_mob.png);
   color: #fff;
   padding: 7vw;
 }
@@ -242,7 +242,7 @@ main {
   gap: 5px;
   align-items: center;
   border: none;
-  background-image: url(../Images/article-program-mob.png);
+  background-image: url(/assests/Images/article-program-mob.png);
 }
 
 .main-program .fa {
