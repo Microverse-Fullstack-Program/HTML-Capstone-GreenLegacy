@@ -2,7 +2,7 @@
 
 # Green Legacy capaign Website
 
-> This is a concert website built with HTML, CSS, and JavaScript
+> This is a green legacy initiative website built with HTML, CSS, and JavaScript
 
 
 ## Built With
