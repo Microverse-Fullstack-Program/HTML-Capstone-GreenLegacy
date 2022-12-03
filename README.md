@@ -80,7 +80,7 @@ After you're finished please remove all the comments and instructions!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Presentation
-[Project Presentation Link](xxx)
+[Project Presentation Link](https://www.loom.com/share/9364deb0f7e2488bb8c5dcff6b91a1f2)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
