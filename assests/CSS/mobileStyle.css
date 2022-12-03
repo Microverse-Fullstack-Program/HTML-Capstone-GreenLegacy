@@ -130,7 +130,7 @@ main {
   font-size: 5vw;
   line-height: 9px;
   color: #ec5242;
-  padding: 0 3.5vw;
+  padding: 0 1.5vw;
 }
 
 .headline .primary-text,
@@ -144,7 +144,7 @@ main {
   font-size: 4vw;
   color: #ec5242;
   line-height: 23px;
-  padding: 0 3.5vw;
+  padding: 0 1.5vw;
 }
 
 .headline .primary-text.about {
@@ -156,7 +156,6 @@ main {
   font-weight: 300;
   font-size: 3vw;
   line-height: 17px;
-  text-align: center;
   padding: 10px 1vw;
   background-color: aliceblue;
 }
