@@ -67,9 +67,9 @@ After you're finished please remove all the comments and instructions!
 
 > The key features of this website are include.
 
-- **[Responsive]**
-- **[Customizable]**
-- **[Accessiable]**
+- **Responsive**
+- **Accessiable**
+- **Code Readability**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,13 +104,7 @@ Clone this repository to your desired folder:
 
 This project can be used to practice html5, css3, and javascript
 
-### Run tests
-
-To run tests, run the following command:
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Authors <a name="authors"></a>
 
