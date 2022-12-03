@@ -45,9 +45,9 @@
 
 > The key features of this website are include.
 
-- **Responsive**
-- **Accessiable**
-- **Code Readability**
+> - **Responsive**
+> - **Accessiable**
+> - **Code Readability**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,6 @@ This project can be used to practice html5, css3, and javascript
 - GitHub: [@githubhandle](https://github.com/cherelemma)
 - Twitter: [@twitterhandle](https://twitter.com/Chere21271613)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chere-lemma27211613/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -101,15 +100,12 @@ This project can be used to practice html5, css3, and javascript
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Microverse-Fullstack-Program/HTML-Capstone-GreenLegacy/issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -121,7 +117,6 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
-
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
