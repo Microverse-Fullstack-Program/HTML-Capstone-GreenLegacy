@@ -31,7 +31,7 @@
 
 # 📖 Green Legacy Initiative Capaign <a name="about-project"></a>
 
-> This project is a responsive website built for annual tree planting campaign initiative in Ethiopia. It built using HTML, CSS, and JavaScript. This ** Green Legacy Initaitive** website is aims to present showcases and anual event activities. 
+> This project is a responsive website built for annual tree planting campaign initiative in Ethiopia. It built using HTML, CSS, and JavaScript. This **Green Legacy Initaitive** website is aims to present showcases and anual event activities. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
