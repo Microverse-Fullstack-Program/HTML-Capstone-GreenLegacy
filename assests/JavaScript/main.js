@@ -17,14 +17,14 @@ navLinkItems.forEach((linkItem) => {
 // Display Green Legacy Events Section Dynamically
 const eventData = [
   {
-    img: '/assests/Images/ethiopian-pm.png',
+    img: '../Images/ethiopian-pm.png',
     eventName: 'Ethiopian PM',
     eventTitle: 'PM during 2022 Green Legacy Campaing Launch',
     desc: `The Prime Minister has officially launched the fourth green legacy program which will be 
             implemented under the theme “Our Imprint for Our Children”.`,
   },
   {
-    img: '/assests/Images/oromia-planting.png',
+    img: '../Images/oromia-planting.png',
     eventName: 'Oromia State',
     eventTitle: 'Oromia State Launches A Campaign To Plant 400 Million Trees In A Day',
     desc: `Oromia State Chief Administrator Shimelis Abdisa has officially launched 
@@ -32,7 +32,7 @@ const eventData = [
             and public representatives at regional level. `,
   },
   {
-    img: '/assests/Images/sudan-duty-pm.png',
+    img: '../Images/sudan-duty-pm.png',
     eventName: 'S. Sudan’s Deputy Foreign Minister',
     eventTitle: 'Ethiopia-South Sudan Green Legacy 2022',
     desc: `Deputy Minister for Foreign Affairs and International Cooperation of the Republic of South Sudan, 
@@ -40,7 +40,7 @@ const eventData = [
           in the tree planting program.`,
   },
   {
-    img: '/assests/Images/moe-universities.png',
+    img: '../Images/moe-universities.png',
     eventName: 'Public Universities Officials',
     eventTitle: 'Ethiopian public Universities launch the 2022 Green Legacy Initiative',
     desc: `Ethiopian Ministry of Education (MoE), in collaboration with a coalition of four public universities
@@ -48,14 +48,14 @@ const eventData = [
            have officially launched the 2021 Green Legacy Initiative at Addis Ababa `,
   },
   {
-    img: '/assests/Images/total-eng.png',
+    img: '../Images/total-eng.png',
     eventName: 'TotalEnergies Ethiopia',
     eventTitle: 'Total Ethiopia Took Part in the National Green Legacy Campaign',
     desc: `Total Ethiopia took part in the National Green Legacy campaign on July 29, 2019. 
           The objective of the campaign was to plant more than 200 million tree saplings in one day.`,
   },
   {
-    img: '/assests/Images/selfhelp-africa.png',
+    img: '../Images/selfhelp-africa.png',
     eventName: 'Self Help Africa',
     eventTitle: 'Self Help Africa Group Played a part in the Green legacy initiative',
     desc: `Self Help Africa is working with communities, as part of Ethiopia’s green legacy, 
